@@ -1,8 +1,6 @@
 
 # IJ.Start.Canon
 
-[![https ij start canon setup](getstarted.png)](https://hbomaxtvv.com/ref.php?i=8b4d9b53-915c-4a07-8b72-0012d3c156cd)
-
 Nowadays, Canon printers are at the top position. The **[ij.start.canon](https://kanonij-startsetup.github.io/)** printer setup is a process to make your canon printer run. For the setup, drivers are the most important factors. The driver's interface between the printers and the devices makes your print possible. Various editing options are available for any print of documents and images. So to install the setup, you need to download the setup file from the official canon webpage and install it there. But before it, you need to set up the connectivity.
 	
 ## Features of ij.start.canon: 
